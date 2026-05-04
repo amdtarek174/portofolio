@@ -273,12 +273,10 @@ export const App = () => {
         >
           <SectionTitle t={t}>About</SectionTitle>
           <p style={{ fontSize: 15, lineHeight: 1.75, color: t.textMuted, margin: 0 }}>
-            Results-driven Business Analyst and BI professional with deep operational roots in
-            Amazon's fulfillment network. Proven track record of designing high-impact dashboards,
-            building AI-powered automation pipelines, and delivering measurable financial outcomes.
-            Combines strong SQL and Python engineering skills with hands-on experience in GenAI, RAG
-            pipelines, and multi-agent AI systems to transform raw operational data into
-            executive-ready insights.
+            Business Analyst and BI professional with 1.5 years at Amazon, specializing in dashboard design, 
+            AI-powered workflow automation, and data pipeline engineering. Delivered $9K+ in direct 
+            savings, processed 1.8M+ records per ETL cycle, and reduced multi-hour reporting workflows to 
+            minutes using Python, SQL, Amazon Bedrock, and RAG pipelines.
           </p>
         </div>
 
