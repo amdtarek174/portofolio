@@ -77,7 +77,6 @@ const projects: Project[] = [
     description:
       'GUI web app for uploading and processing Inventory Check files with auto-detection, data validation, S3 overwrite management, and daily dashboard auto-updates. Eliminated 30 min of manual processing.',
     tech: ['Python', 'Streamlit', 'Pandas', 'Boto3', 'AWS S3'],
-    demoLink: 'https://drive.google.com/drive/folders/1WylLyFntD5I2VBSPDZaUvTen3eoMhky_?usp=drive_link',
   },
   {
     title: 'Network Loss Unified Analytics Suite',
